@@ -1,4 +1,4 @@
-# Hr-dashboard
+# Hr-dashboard Powerbi Project
 
 An HR Dashboard is a visual interface that provides Human Resources (HR) professionals, managers, and executives with quick access to key HR data and metrics. It consolidates various employee-related information into easily digestible charts, graphs, and reports, helping HR teams make data-driven decisions, track employee performance, manage workforce efficiency, and ensure compliance with labor laws
 
